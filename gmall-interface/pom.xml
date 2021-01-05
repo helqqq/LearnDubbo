@@ -4,17 +4,11 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>com.helq3</groupId>
-  <artifactId>LearnDubbo</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>user-service-provider</module>
-      <module>order-service-consumer</module>
-        <module>gmall-interface</module>
-    </modules>
+  <groupId>com.atguigu.gmall</groupId>
+  <artifactId>gmall-interface</artifactId>
+  <version>1.0-SNAPSHOT</version>
 
-    <name>LearnDubbo</name>
+  <name>gmall-interface</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

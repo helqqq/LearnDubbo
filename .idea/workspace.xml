@@ -1,7 +1,55 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9a338b0-dffe-412d-91af-75e325524cd7" name="Default Changelist" comment="" />
+    <list default="true" id="f9a338b0-dffe-412d-91af-75e325524cd7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/java/com/atguigu/gmall/bootorderserviceconsumer/BootOrderServiceConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/java/com/atguigu/gmall/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/java/com/atguigu/gmall/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-service-consumer/src/test/java/com/atguigu/gmall/bootorderserviceconsumer/BootOrderServiceConsumerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/java/com/atguigu/gmall/bootuserserviceprovider/BootUserServiceProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/java/com/atguigu/gmall/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-service-provider/src/test/java/com/atguigu/gmall/bootuserserviceprovider/BootUserServiceProviderApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-interface/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-interface/src/main/java/com/atguigu/gmall/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-interface/src/main/java/com/atguigu/gmall/bean/UserAddress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-interface/src/main/java/com/atguigu/gmall/service/OrderService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-interface/src/main/java/com/atguigu/gmall/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gmall-interface/src/test/java/com/atguigu/gmall/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service-consumer/src/main/java/com/atguigu/gmall/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service-consumer/src/main/java/com/atguigu/gmall/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/order-service-consumer/src/test/java/com/atguigu/gmall/AppTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service-provider/src/main/java/com/atguigu/gmall/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service-provider/src/main/java/com/atguigu/gmall/MainApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service-provider/src/main/java/com/atguigu/gmall/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service-provider/src/test/java/com/atguigu/gmall/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearnDubbo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,9 +59,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -29,15 +82,26 @@
     </option>
   </component>
   <component name="ProjectId" id="1mBSNmP2N5OZOFqSVVAp9YLFljZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dubbo01-RMI/src/com/helq3/service" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/boot-order-service-consumer/src/main/java/com/atguigu/gmall" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../terminal" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.atguigu.gmall.bootorderserviceconsumer" />
+      <recent name="com.atguigu.gmall.bootuserserviceprovider" />
+      <recent name="com.atguigu.gmall.service" />
+      <recent name="com.atguigu.gmall.bean" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\work\LearnDubbo\Dubbo01-RMI\src\com\helq3\service" />
     </key>
@@ -81,6 +145,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BootOrderServiceConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-order-service-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.bootorderserviceconsumer.BootOrderServiceConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BootUserServiceProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-user-service-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.gmall.bootuserserviceprovider.BootUserServiceProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.ConsumerMain" />
@@ -98,11 +176,32 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1608965453918</updated>
-      <workItem from="1608965455162" duration="790000" />
+      <workItem from="1608965455162" duration="1071000" />
+      <workItem from="1608967021279" duration="8085000" />
+      <workItem from="1608978023045" duration="2066000" />
+      <workItem from="1609118358595" duration="73000" />
+      <workItem from="1609124752648" duration="19000" />
+      <workItem from="1609145257150" duration="28000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
